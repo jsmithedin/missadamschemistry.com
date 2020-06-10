@@ -1,0 +1,16 @@
+name: Merge Schedule
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+  schedule:
+    - cron: 50 16 * * *
+
+jobs:
+  merge_schedule:
+    runs-one: ubuntu-latest
+    steps:
+      - uses: gr2m/merge-schedule-action@1.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
