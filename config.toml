@@ -33,3 +33,8 @@ enableRobotsTXT = false
   background_color_class = "bg-washed-red"
   featured_image = "/images/chemistry.jpg"
   recent_posts_number = 3
+
+[privacy]
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
+    useSessionStorage = true
