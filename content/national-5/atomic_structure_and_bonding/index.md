@@ -1,6 +1,6 @@
 ---
 title: "Atomic Structure and Bonding"
-date: 2020-08-10T17:00:00+01:00
+date: 2020-08-09T17:00:00+01:00
 description: "Atomic structure, bonding and properties."
 summary:  "A review of atomic structure and bonding covering: atomic structure, bonding and properties."
 thumbnail: "national-5/atomic_structure_and_bonding/thumbnail.png"
