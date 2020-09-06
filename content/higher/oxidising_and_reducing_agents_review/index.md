@@ -9,4 +9,4 @@ thumbnail: "higher/oxidisng_and_reducing_agents_review/thumbnail.png"
 
 This video is a review of the whole oxidising and reducing agent topic.  To assist you in using this oxidising and reducing agent video please visit the link below to download a free worksheet to use as you work through the video.  Oxidising and reducing agents covers redox reactions, balancing ion-electron equations, identifying oxidising and reducing agents from redox equations, uses of oxidising and reducing agents, and redox titrations.
 
-[Worksheet](OxidisngAndReducingAgents.pdf)
+[Worksheet](OxidisingAndReducingAgents.pdf)
