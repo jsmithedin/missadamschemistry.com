@@ -1,6 +1,6 @@
 ---
 title: "Systematic Organic Chemistry Review"
-date: 2020-04-11T17:00:00+01:00
+date: 2022-04-11T17:00:00+01:00
 description: "Alcohols, carbonyls, carboxylic acids and esters."
 summary:  "A review of the systematic organic chemistry required for Higher chemistry unit 2: Nature’s Chemistry."
 thumbnail: "higher/systematic_organic_review/thumbnail.png"
