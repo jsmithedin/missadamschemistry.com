@@ -3,7 +3,7 @@ title: "Metals"
 date: 2025-02-23T17:00:00+01:00
 description: "Metallic bonding, reactivity series, metal reactions, extraction of metals, redox, and electrochemical cells."
 summary:  "A review of the whole Metals topic."
-thumbnail: "national-5/metalss/thumbnail.png"
+thumbnail: "national-5/metals/thumbnail.png"
 ---
 {{< youtube CpypzfwJY >}}
 
